@@ -179,6 +179,7 @@ Provide a high-level view of airline operations.
 
 ### 🎛️ Filters
 Used to compare flightStatus, airlines, airports, and date periods to understand overall performance.
+
 ---
 
 ## ⏱️ 2. Delay Analysis
@@ -242,6 +243,7 @@ Analyze operational behavior across time periods.
 
 ### 🎛️ Filters
 Used to analyze hourly trends, peak periods, and flight activity variations over time.
+
 ---
 
 ## ⚙️ 4. Operational Performance
@@ -270,6 +272,7 @@ Evaluate efficiency beyond delay metrics.
 
 ### 🎛️ Filters
 Used to compare operational efficiency across airlines and airports.
+
 ---
 
 ## 🧩 Interactive Tooltip
